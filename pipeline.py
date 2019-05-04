@@ -48,8 +48,8 @@ if StrictVersion(seesaw.__version__) < StrictVersion('0.8.5'):
 # It will be added to the WARC files and reported to the tracker.
 VERSION = '20190503.01'
 USER_AGENT = 'ArchiveTeam'
-TRACKER_ID = 'load'
-TRACKER_HOST = 'localhost:8080'
+TRACKER_ID = 'test'
+TRACKER_HOST = 'tracker.kiska.pw'
 
 
 ###########################################################################
